@@ -39,5 +39,5 @@ Si se trata de dar una sugerencia:
 - Ambito del servidor en el que podría aplicarse tu idea.
 - Explicación extensa de en que consiste tu idea, y como puede aplicarse.
 
-Si tu ticket no respeta estas estructura, podrá no ser validado, o eliminado en cualquier momento en caso de ser validado erróneamente.
+Si tu ticket no respeta esta estructura, podrá no ser validado, o eliminado en cualquier momento en caso de ser validado erróneamente.
 
