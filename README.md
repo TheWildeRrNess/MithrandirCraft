@@ -17,7 +17,7 @@ NORMAS DE USO DEL SISTEMA DE TICKETS:
 - No se aceptarán temas que utilicen lenguaje ofensivo.
 - Expresate claramente y sin errores ortográficos exagerados.
 
-[b]Si se trata de un bug en MithrandirCraft (Error encontrado en el servidor o en sus interfazes):[/b]
+Si se trata de un bug en MithrandirCraft (Error encontrado en el servidor o en sus interfazes):
 
 - Nombre de tu personaje en MithrandirCraft
 - Fecha o fechas de encuentro con dicho bug. (Importante para valorar si puede haber sido solucionado ya...)
@@ -25,7 +25,7 @@ NORMAS DE USO DEL SISTEMA DE TICKETS:
 - Que debería estar ocurriendo en vez del efecto negativo causado por el bug?
 - Comentarios adicionales y detalles.
 
-[b]Si se trata de reportar un jugador:[/b]
+Si se trata de reportar un jugador:
 
 - Nombre de tu personaje en MithrandirCraft.
 - Nombre del jugador o jugadores que reportas.
@@ -33,7 +33,7 @@ NORMAS DE USO DEL SISTEMA DE TICKETS:
 - Sección de /rules que consideras incumplida por el jugador reportado en question.
 - Comentarios adicionales y detalles.
 
-[b]Si se trata de dar una sugerencia:[/b]
+Si se trata de dar una sugerencia:
 
 - Nombre de tu jugador en MithrandirCraft.
 - Ambito del servidor en el que podría aplicarse tu idea.
