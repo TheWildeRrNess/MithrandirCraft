@@ -3,16 +3,13 @@
 <br>
 ## Como voy al mundo creativo?##
 En Mithrandircraft no hay mundo creativo.
-
 ## Como llego al parkour?##
 Simplemente escribe /warp parkour
 Conviene que revises todos los warps escribiendo /warps
-
 ## ¿Cuales son las IP's del servidor?##
 mithrandir.craft.vg
 77.111.253.92:2012
 mithrandir.craft.vg:2012
-
 ## Al entrar al servidor me aparece un mensaje diciendo: ''Proxy detectado'' ¿Que puedo hacer para remediar este mensaje y acceder al servidor?##
 Primeramente procedo a explicar porque aparece este mensaje: El servidor dispone de un sistema anti spambots bastante complejo, que dispone de algunas listas negras para
 seguridad adicional. Estas listas contienen las IP's globalmente conocidas como habitualmente perjudiciales. Las IP's son registradas en páginas web por usuarios de todo el
