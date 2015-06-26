@@ -7,3 +7,31 @@ En Mithrandircraft no hay mundo creativo.
 ## Como llego al parkour?##
 Simplemente escribe /warp parkour
 Conviene que revises todos los warps escribiendo /warps
+
+## ¿Cuales son las IP's del servidor?##
+mithrandir.craft.vg
+77.111.253.92:2012
+mithrandir.craft.vg:2012
+
+## Al entrar al servidor me aparece un mensaje diciendo: ''Proxy detectado'' ¿Que puedo hacer para remediar este mensaje y acceder al servidor?##
+Primeramente procedo a explicar porque aparece este mensaje: El servidor dispone de un sistema anti spambots bastante complejo, que dispone de algunas listas negras para
+seguridad adicional. Estas listas contienen las IP's globalmente conocidas como habitualmente perjudiciales. Las IP's son registradas en páginas web por usuarios de todo el
+mundo, y estas páginas son tomadas como referencia en nuestro servidor. Como las IP's registradas pueden ser muy diversas y a menudo de veracidad poco fiable, se produce
+este error al intentar entrar con ciertas IP's al servidor.
+Este sistema és crucial para el servidor, ya que detiene parcialmente ataques DDOS y ataques mediante programas y scripts creados por personas malintencionadas, y usados
+por jugadores que guardan rencor hacia el servidor, o simplemente desean hacerle mal. Grácias a este sistema, nunca veremos spam de logueo de usuarios en el chat :)
+
+Para solucionar este mensaje de error de acceso, prueba realizar los siguientes pasos:
+(Cada vez que realices una acción, comprueba si ya puedes acceder al servidor)
+
+- Reinicia tu router
+- Resetea tu router (En algunos casos, un reset puede producir un cambio de IP de router)
+- Resetea la IP manualmente mediante ejecución de los comandos IPCONFIG en la terminal de tu ordenador. (Busca un tutorial para realizar estos pasos, son muy sencillos 
+y plenamente seguros si los realizas correctamente)
+
+En cualquier caso, si consigues modificar tu IP, dejarás de tener este problema con el antispambot.
+
+Si el problema no se ha solucionado realizando todas estas acciones (debería haberse solucionado), prueba lo siguiente:
+
+- Puedes acceder al servidor desde otro ordenador?
+- Puedes acceder al servidor con tu nombre habitual, desde otro, o el mismo ordenador, utilizando una conexión a internet distinta?
