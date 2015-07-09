@@ -1,3 +1,3 @@
-| Magia        | Descripción   | Maná  | Requisitos | Duarción | Enfriamiento | Alcance | Item | Obteción |
-| ------------- |:-------------:| -----:|-----:|-----:|-----:|-----:|-----:|-----: |
-|    /cast anvil   | Dispara un anvil (yunque) hacia la direción que mires. | Yunque (Anvil) x1 |Instantaneo |10 segundos |Dependiendo del angulo de visón | | |
+Magia | Descripción   | Maná  | Requisitos | Duarción | Enfriamiento | Alcance | Item | Obteción
+------|---------------|-------|------------|----------|--------------|---------|------|----------
+/cast anvil | Dispara un anvil (yunque) hacia la direción que mires. | Yunque (Anvil) x1 | Instantaneo | 10 segundos | Dependiendo del angulo de visón | nada | 123
