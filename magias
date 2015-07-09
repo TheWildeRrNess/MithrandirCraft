@@ -126,8 +126,9 @@
 
  Objeto  | Magia/s
 ---------|---------
-![](assets/img/items/Blazerod.png) |
-![](assets/img/items/Bone.png) |
-![](assets/img/items/Book.png) |
-![](assets/img/items/gold_boots.png) |
-![](assets/img/items/Stick.png) |
+![](assets/img/items/Blazerod.png) | Anvil, Blind, Combust, Cripple, Disarm, Drainlife, Entomb, Explode, Explosivearrow, Fireball, Forcebomb, Forcetoss, Freeze, Geyser, Haze, Lightning, Missile, Poison, Silence, Storm, Stormblock, Volley, Zeus, Disguise(X)
+![](assets/img/items/Bone.png) | Capture, Confussion, Firenova, Forcepush, Invisibility, Levitate, Mana, Minion, Stealth, Hocus(X)
+![](assets/img/items/Book.png) | Armor, Carpet, Clarity, Cleanse, Conjure, Dowse, Empower, Enderchest, Farm, Flamewalk, Food, Frostwalk, Gills, Haste, Invulnerability, Lifewalk, Likywalk, Moon, Repair, Roar, Safefall, Spellhaste, Stonevision, Sun, Walkway, Waterwalk, Windwalk
+![](assets/img/items/gold_boots.png) | Lightwalk
+![](assets/img/items/Stick.png) | Blink, Build, Heal, Leap, Mark, Phase, Prayer, Reach, Recall, Shadowstep, Summon, Switch, Telekinesis, Wall, Water, Zap, Transform(X)
+Sin objeto | Firechain, Gate, Purge, Reflect, Transmute, Tree, Gianttree, Torcharrow
