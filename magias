@@ -7,8 +7,8 @@
 /cast blind | Cega al jugador objetivo, el cual ve su radio de visón reducido drásticamente. | 10 | - | 200 segundos | 15 segundos | 20 bloques | Donaciones Crescent Ville (pergaminos)
 /cast blink | Te teleporta a una corta distancia. | 15 | - | Instantaneo | 8 segundos | 25 bloques | -&nbsp;
 /cast build | Construir con ciertos bloques a distancia (El bloque que vaya a ser colocado, debe encontrarse en el primer slot de la barra selectora, empezando por la izquierda). | 5 | - | Instantaneo | 2 segundos | 25 bloques | -&nbsp;
-/cast capture | | | | | |
-/cast carpet | | | | | |
+/cast capture | Captura el monstruo al cual estés mirando. | 0 | - | Instantaneo | 60 segundos | -&nbsp;
+/cast carpet | Hace aparezer una alfombra de cristal a tus pies, la cual se moverá contigo si te mueves, también funciona saltando, de modo que puedes ''volar''. | 50 por uso y 20 cada 50 bloques | Pluma x5 por uso y x1 cada 50 bloques | 50 bloques | 30 segundos | -&nbsp;
 /cast clarity | | | | | |
 /cast cleanse | | | | | |
 /cast combust | | | | | |
