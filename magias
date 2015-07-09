@@ -9,120 +9,120 @@
 /cast build | Construir con ciertos bloques a distancia (El bloque que vaya a ser colocado, debe encontrarse en el primer slot de la barra selectora, empezando por la izquierda). | 5 | - | Instantaneo | 2 segundos | 25 bloques | -&nbsp;
 /cast capture | Captura el monstruo al cual estés mirando. | 0 | - | Instantaneo | 60 segundos | -&nbsp;
 /cast carpet | Hace aparezer una alfombra de cristal a tus pies, la cual se moverá contigo si te mueves, también funciona saltando, de modo que puedes ''volar''. | 50 por uso y 20 cada 50 bloques | Pluma x5 por uso y x1 cada 50 bloques | 50 bloques | 30 segundos | -&nbsp;
-/cast clarity | | | | | |
-/cast cleanse | | | | | |
-/cast combust | | | | | |
-/cast confusion | | | | | |
-/cast conjure | | | | | |
-/cast cripple | | | | | |
-/cast disarm | | | | | |
-/cast dowse | | | | | |
-/cast drainlife | | | | | |
-/cast empower | | | | | |
-/cast enderchest | | | | | |
-/cast entomb | | | | | |
-/cast explode | | | | | |
-/cast explosivearrow | | | | | |
-/cast farm | | | | | |
-/cast fireball | | | | | |
-/cast firechain | | | | | |
-/cast firenova | | | | | |
-/cast flamewalk | | | | | |
-/cast food | | | | | |
-/cast forcebomb | | | | | |
-/cast forcepush | | | | | |
-/cast forcetoss | | | | | |
-/cast freeze | | | | | |
-/cast frostwalk | | | | | |
-/cast gate | | | | | |
-/cast geyser | | | | | |
-/cast gills | | | | | |
-/cast haste | | | | | |
-/cast haze | | | | | |
-/cast heal | | | | | |
-/cast invisibility | | | | | |
-/cast invulnerability | | | | | |
-/cast leap | | | | | |
-/cast levitate | | | | | |
-/cast lifewalk | | | | | |
-/cast lightning | | | | | |
-/cast lihtwalk | | | | | |
-/cast lilywalk | | | | | |
-/cast mana | | | | | |
-/cast mark | | | | | |
-/cast minion | | | | | |
-/cast missile | | | | | |
-/cast moon | | | | | |
-/cast pain | | | | | |
-/cast phase | | | | | |
-/cast poison | | | | | |
-/cast prayer | | | | | |
-/cast purge | | | | | |
-/cast reach | | | | | |
-/cast recall | | | | | |
-/cast reflect | | | | | |
-/cast repair | | | | | |
-/cast roar | | | | | |
-/cast safefall | | | | | |
-/cast shadowstep | | | | | |
-/cast silence | | | | | |
-/cast spellhaste | | | | | |
-/cast stealth | | | | | |
-/cast stonevision | | | | | |
-/cast storm | | | | | |
-/cast stormblock | | | | | |
-/cast summon | | | | | |
-/cast sun | | | | | |
-/cast switch | | | | | |
-/cast transmute | | | | | |
-/cast telekinesis | | | | | |
-/cast tree | | | | | |
-/cast volley | | | | | |
-/cast walkway | | | | | |
-/cast wall | | | | | |
-/cast water | | | | | |
-/cast waterwalk | | | | | |
-/cast windwalk | | | | | |
-/cast zap | | | | | |
-/cast gianttree | | | | | |
-/cast torcharrow | | | | | |
-/cast zeus | | | | | |
+/cast clarity | Despeja tu mente y aumenta la regeneración de maná de forma temporal. | 10 | - | 60 segundos | 300 segundos | Donaciones Crescent Ville(pergaminos)
+/cast cleanse | Cura tus estados negativos | 30 | - | Instantaneo | 60 segundos | Donaciones Crescent Ville (pergaminos)
+/cast combust | Prende fuego al objetivo, causando 1 de daño por cada tick. | 10 | - | 100 ticks | 10 segundos | 20 bloques | Donaciones Crescent Ville (Pergaminos)
+/cast confusion | Provoca que los monstruos cercanos se confundan, y empiezen a atacarse entre si. | 30 | - | | 30 segundos | 20 bloques | -&nbsp;
+/cast conjure | | | | | | |
+/cast cripple | | | | | | |
+/cast disarm | | | | | | |
+/cast dowse | | | | | | |
+/cast drainlife | | | | | | |
+/cast empower | | | | | | |
+/cast enderchest | | | | | | |
+/cast entomb | | | | | | |
+/cast explode | | | | | | |
+/cast explosivearrow | | | | | | |
+/cast farm | | | | | | |
+/cast fireball | | | | | | |
+/cast firechain | | | | | | |
+/cast firenova | | | | | | |
+/cast flamewalk | | | | | | |
+/cast food | | | | | | |
+/cast forcebomb | | | | | | |
+/cast forcepush | | | | | | |
+/cast forcetoss | | | | | | |
+/cast freeze | | | | | | |
+/cast frostwalk | | | | | | |
+/cast gate | | | | | | |
+/cast geyser | | | | | | |
+/cast gills | | | | | | |
+/cast haste | | | | | | |
+/cast haze | | | | | | |
+/cast heal | | | | | | |
+/cast invisibility | | | | | | |
+/cast invulnerability | | | | | | |
+/cast leap | | | | | | |
+/cast levitate | | | | | | |
+/cast lifewalk | | | | | | |
+/cast lightning | | | | | | |
+/cast lihtwalk | | | | | | |
+/cast lilywalk | | | | | | |
+/cast mana | | | | | | |
+/cast mark | | | | | | |
+/cast minion | | | | | | |
+/cast missile | | | | | | |
+/cast moon | | | | | | |
+/cast pain | | | | | | |
+/cast phase | | | | | | |
+/cast poison | | | | | | |
+/cast prayer | | | | | | |
+/cast purge | | | | | | |
+/cast reach | | | | | | |
+/cast recall | | | | | | |
+/cast reflect | | | | | | |
+/cast repair | | | | | | |
+/cast roar | | | | | | |
+/cast safefall | | | | | | |
+/cast shadowstep | | | | | | |
+/cast silence | | | | | | |
+/cast spellhaste | | | | | | |
+/cast stealth | | | | | | |
+/cast stonevision | | | | | | |
+/cast storm | | | | | | |
+/cast stormblock | | | | | | |
+/cast summon | | | | | | |
+/cast sun | | | | | | |
+/cast switch | | | | | | |
+/cast transmute | | | | | | |
+/cast telekinesis | | | | | | |
+/cast tree | | | | | | |
+/cast volley | | | | | | |
+/cast walkway | | | | | | |
+/cast wall | | | | | | |
+/cast water | | | | | | |
+/cast waterwalk | | | | | | |
+/cast windwalk | | | | | | |
+/cast zap | | | | | | |
+/cast gianttree | | | | | | |
+/cast torcharrow | | | | | | |
+/cast zeus | | | | | | |
 
 ## Magias de Transformación en objeto (Actualmente inservibles) ##
 
  Magia | Descripción  | Maná  | Requisitos | Duarción | Enfriamiento | Alcance | Item | Obteción
 -------|--------------|-------|------------|----------|--------------|---------|------|----------
-/cast disguisestone | | | | | |
-/cast disguisediamond | | | | | |
-/cast disguisesword | | | | | |
-/cast disguisewood | | | | | |
-/cast disguiseice | | | | | |
-
+/cast disguisestone | | | | | | |
+/cast disguisediamond | | | | | | |
+/cast disguisesword | | | | | | |
+/cast disguisewood | | | | | | |
+/cast disguiseice | | | | | | |
+ 
 ## Magias de Transformación en mob o animal (Actualmente inservibles) ##
 
  Magia | Descripción  | Maná  | Requisitos | Duarción | Enfriamiento | Alcance | Item | Obteción
 -------|--------------|-------|------------|----------|--------------|---------|------|----------
-/cast transformzombie | | | | | |
-/cast transformskeleton | | | | | |
-/cast transformspider | | | | | |
-/cast transformenderman | | | | | |
-/cast transformghast | | | | | |
-/cast transformslime | | | | | |
-/cast transformwither | | | | | |
-/cast transformenderdragon | | | | | |
-/cast transformbabychicken | | | | | |
-/cast transformcow | | | | | |
-/cast transformmooshroom | | | | | |
-/cast transformsheep | | | | | |
-/cast transformbat | | | | | |
+/cast transformzombie | | | | | | |
+/cast transformskeleton | | | | | | |
+/cast transformspider | | | | | | |
+/cast transformenderman | | | | | | |
+/cast transformghast | | | | | | |
+/cast transformslime | | | | | | |
+/cast transformwither | | | | | | |
+/cast transformenderdragon | | | | | | |
+/cast transformbabychicken | | | | | | |
+/cast transformcow | | | | | | |
+/cast transformmooshroom | | | | | | |
+/cast transformsheep | | | | | | |
+/cast transformbat | | | | | | |
 
 ## Magias de transformación/maldición (Actualmente inservibles) ##
 
  Magia | Descripción  | Maná  | Requisitos | Duarción | Enfriamiento | Alcance | Item | Obteción
 -------|--------------|-------|------------|----------|--------------|---------|------|----------
-/cast hocussilverfish | | | | | |
-/cast hocusegg| | | | | |
-/cast hocusdirt| | | | | |
+/cast hocussilverfish | | | | | | |
+/cast hocusegg| | | | | | |
+/cast hocusdirt| | | | | | |
 
  Objeto  | Magia/s
 ---------|---------
