@@ -30,6 +30,26 @@
 /cast forcebomb | | | | | | | |
 /cast forcepush | | | | | | | |
 /cast forcetoss | | | | | | | |
+/cast freeze | | | | | | | |
+/cast frostwalk | | | | | | | |
+/cast gate | | | | | | | |
+/cast geyser | | | | | | | |
+/cast gills | | | | | | | |
+/cast haste | | | | | | | |
+/cast haze | | | | | | | |
+/cast heal | | | | | | | |
+/cast invisibility | | | | | | | |
+/cast invulnerability | | | | | | | |
+/cast leap | | | | | | | |
+/cast levitate | | | | | | | |
+/cast lifewalk | | | | | | | |
+/cast lightning | | | | | | | |
+/cast lihtwalk | | | | | | | |
+/cast lilywalk | | | | | | | |
+/cast mana | | | | | | | |
+/cast mark | | | | | | | |
+/cast minion | | | | | | | |
+/cast missile | | | | | | | |
 /cast  | | | | | | | |
 /cast  | | | | | | | |
 /cast  | | | | | | | |
@@ -48,8 +68,7 @@
 /cast  | | | | | | | |
 /cast  | | | | | | | |
 /cast  | | | | | | | |
-/cast  | | | | | | | |
-/cast  | | | | | | | |
+/cast  | | | | | | | |/cast  | | | | | | | |
 
  Objetos Rápidos | Magias
 -----------------|--------
