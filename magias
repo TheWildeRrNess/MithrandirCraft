@@ -4,33 +4,57 @@
 /cast armor | Otorga una armadura de diamante encantada temporal, al usuario. No funciona si ya llevas una armadura puesta. | 25 | Pepita de oro x1 | 30 segundos | 0 segundos tras finalizar su uso anterior | ![](assets/img/items/Book.png)  | &nbsp;
 /cast blind | | | | | | | |
 /cast blink | | | | | | | |
-/cast | | | | | | | |
-/cast | | | | | | | |
-/cast | | | | | | | |
-/cast | | | | | | | |
-/cast | | | | | | | |
-/cast | | | | | | | |
-/cast | | | | | | | |
-/cast | | | | | | | |
-/cast | | | | | | | |
-/cast | | | | | | | |
-/cast | | | | | | | |
-/cast | | | | | | | |
-/cast | | | | | | | |
-/cast | | | | | | | |
-/cast | | | | | | | |
-/cast | | | | | | | |
-/cast | | | | | | | |
-/cast | | | | | | | |
-/cast | | | | | | | |
-/cast | | | | | | | |
-/cast | | | | | | | |
-/cast | | | | | | | |
-/cast | | | | | | | |
-/cast | | | | | | | |
-/cast | | | | | | | |
-/cast | | | | | | | |
+/cast build | | | | | | | |
+/cast capture | | | | | | | |
+/cast carpet | | | | | | | |
+/cast clarity | | | | | | | |
+/cast cleanse | | | | | | | |
+/cast combust | | | | | | | |
+/cast confusion | | | | | | | |
+/cast conjure | | | | | | | |
+/cast cripple | | | | | | | |
+/cast disarm | | | | | | | |
+/cast dowse | | | | | | | |
+/cast drainlife | | | | | | | |
+/cast empower | | | | | | | |
+/cast enderchest | | | | | | | |
+/cast entomb | | | | | | | |
+/cast explode | | | | | | | |
+/cast explosivearrow | | | | | | | |
+/cast farm | | | | | | | |
+/cast fireball | | | | | | | |
+/cast firechain | | | | | | | |
+/cast firenova | | | | | | | |
+/cast flamewalk | | | | | | | |
+/cast food | | | | | | | |
+/cast forcebomb | | | | | | | |
+/cast forcepush | | | | | | | |
+/cast forcetoss | | | | | | | |
+/cast  | | | | | | | |
+/cast  | | | | | | | |
+/cast  | | | | | | | |
+/cast  | | | | | | | |
+/cast  | | | | | | | |
+/cast  | | | | | | | |
+/cast  | | | | | | | |
+/cast  | | | | | | | |
+/cast  | | | | | | | |
+/cast  | | | | | | | |
+/cast  | | | | | | | |
+/cast  | | | | | | | |
+/cast  | | | | | | | |
+/cast  | | | | | | | |
+/cast  | | | | | | | |
+/cast  | | | | | | | |
+/cast  | | | | | | | |
+/cast  | | | | | | | |
+/cast  | | | | | | | |
+/cast  | | | | | | | |
 
  Objetos Rápidos | Magias
 -----------------|--------
- ![](assets/img/items/Blazerod.png) |
+![](assets/img/items/Blazerod.png) |
+![](assets/img/items/Bone.png) |
+![](assets/img/items/Book.png) |
+![](assets/img/items/gold_boots.png) |
+![](assets/img/items/Stick.png) |
