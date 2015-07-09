@@ -116,18 +116,13 @@
 /cast transformsheep | | | | | | | |
 /cast transformbat | | | | | | | |
 
-## Magias de transformación/maldición ##
+## Magias de transformación/maldición (Actualmente inservibles) ##
 
  Magia | Descripción  | Maná  | Requisitos | Duarción | Enfriamiento | Alcance | Item | Obteción
 -------|--------------|-------|------------|----------|--------------|---------|------|----------
-/cast | | | | | | | |
-/cast | | | | | | | |
-/cast | | | | | | | |
-/cast | | | | | | | |
-/cast | | | | | | | |
-/cast | | | | | | | |
-/cast | | | | | | | |
-/cast | | | | | | | |
+/cast hocussilverfish | | | | | | | |
+/cast hocusegg| | | | | | | |
+/cast hocusdirt| | | | | | | |
 
  Objeto  | Magia/s
 ---------|---------
