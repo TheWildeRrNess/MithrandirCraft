@@ -12,8 +12,8 @@
 /cast clarity | Despeja tu mente y aumenta la regeneración de maná de forma temporal. | 10 | - | 60 segundos | 300 segundos | Donaciones Crescent Ville(pergaminos)
 /cast cleanse | Cura tus estados negativos | 30 | - | Instantaneo | 60 segundos | Donaciones Crescent Ville (pergaminos)
 /cast combust | Prende fuego al objetivo, causando 1 de daño por cada tick. | 10 | - | 100 ticks | 10 segundos | 20 bloques | Donaciones Crescent Ville (Pergaminos)
-/cast confusion | Provoca que los monstruos cercanos se confundan, y empiezen a atacarse entre si. | 30 | - | | 30 segundos | 20 bloques | -&nbsp;
-/cast conjure | | | | | | |
+/cast confusion | Provoca que los monstruos cercanos se confundan, y empiezen a atacarse entre si. | 30 | - | ∞ | 30 segundos | 20 bloques | -&nbsp;
+/cast conjure | Hace aparezer ingredientes para realizar pociones | 0 | - | Instantaneo | 600 segundos | - | -&nbsp;
 /cast cripple | | | | | | |
 /cast disarm | | | | | | |
 /cast dowse | | | | | | |
