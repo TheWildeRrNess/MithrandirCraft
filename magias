@@ -14,12 +14,12 @@
 /cast combust | Prende fuego al objetivo, causando 1 de daño por cada tick. | 10 | - | 100 ticks | 10 segundos | 20 bloques | Donaciones Crescent Ville (Pergaminos)
 /cast confusion | Provoca que los monstruos cercanos se confundan, y empiezen a atacarse entre si. | 30 | - | ∞ | 30 segundos | 20 bloques | -&nbsp;
 /cast conjure | Hace aparezer ingredientes para realizar pociones | 0 | - | Instantaneo | 600 segundos | - | -&nbsp;
-/cast cripple | | | | | | |
-/cast disarm | | | | | | |
-/cast dowse | | | | | | |
-/cast drainlife | | | | | | |
-/cast empower | | | | | | |
-/cast enderchest | | | | | | |
+/cast cripple | Causa el efecto lentitud de nivel 5 al objetivo impidiendole prácticamente el movimiento | 10 | - | 100 segundos | 15 segundos | 20 bloques | Donaciones Crescent Ville (pergaminos)
+/cast disarm | Desarma al jugador objetivo, su arma cae al suelo, pero regresa a él al terminar el tiempo de duración. El arma debe ser una de las siguientes: blaze rod, palo, libro, hueso, espada de madera, oro, hierro o diamante y arco. | 20 | - | 100 segundos | 15 segundos | 20 bloques | Donaciones Crescent Ville (pergaminos)
+/cast dowse | Determina si hay hierro cerca tuyo. El rango es muy corto, de modo que tiene utilidad si estás minando. | 35 | piedra x2 | Instantaneo | 60 segundos | 4 bloques | -&nbsp;
+/cast drainlife | Roba 2 puntos de vida al jugador objetivo, y da esos puntos al usuario. | 10 | - | Instantaneo | 5 segundos | 15 bloques | -&nbsp;
+/cast empower | Aumenta el poder de tus magias de ataque | 15 cada 10 usos, después, 5 | - | 30 segundos | 120 segundos | - | -&nbsp;
+/cast enderchest | Abre tu enderchest estés donde estés, sin necesidad de usar el cofre. | 50 | Ender Pearl x1 | Instantaneo | 300 segundos | - | Donaciones Crescent Ville (pergaminos)
 /cast entomb | | | | | | |
 /cast explode | | | | | | |
 /cast explosivearrow | | | | | | |
