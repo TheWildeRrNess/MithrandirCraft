@@ -88,41 +88,8 @@
 /cast torcharrow | Hace que tus flechas sean de fuego. | 25 | Antorcha x3 | 600 segundos | 10 segundos | - | -&nbsp;
 /cast zeus | Hace caer un rayo que causa una gran explosión a coste de 3 puntos de vida (1 corazón y medio). | 60 | Oro x1 | Instantaneo | 120 segundos | Como lightning y explode | -&nbsp;
 
-## Magias de Transformación en objeto (Actualmente inservibles) ##
-
- Magia | Descripción  | Maná  | Requisitos | Duarción | Enfriamiento | Alcance | Item | Obteción
--------|--------------|-------|------------|----------|--------------|---------|------|----------
-/cast disguisestone | | | | | | |
-/cast disguisediamond | | | | | | |
-/cast disguisesword | | | | | | |
-/cast disguisewood | | | | | | |
-/cast disguiseice | | | | | | |
- 
-## Magias de Transformación en mob o animal (Actualmente inservibles) ##
-
- Magia | Descripción  | Maná  | Requisitos | Duarción | Enfriamiento | Alcance | Item | Obteción
--------|--------------|-------|------------|----------|--------------|---------|------|----------
-/cast transformzombie | | | | | | |
-/cast transformskeleton | | | | | | |
-/cast transformspider | | | | | | |
-/cast transformenderman | | | | | | |
-/cast transformghast | | | | | | |
-/cast transformslime | | | | | | |
-/cast transformwither | | | | | | |
-/cast transformenderdragon | | | | | | |
-/cast transformbabychicken | | | | | | |
-/cast transformcow | | | | | | |
-/cast transformmooshroom | | | | | | |
-/cast transformsheep | | | | | | |
-/cast transformbat | | | | | | |
-
-## Magias de transformación/maldición (Actualmente inservibles) ##
-
- Magia | Descripción  | Maná  | Requisitos | Duarción | Enfriamiento | Alcance | Item | Obteción
--------|--------------|-------|------------|----------|--------------|---------|------|----------
-/cast hocussilverfish | | | | | | |
-/cast hocusegg| | | | | | |
-/cast hocusdirt| | | | | | |
+## Objetos de casteo (Objetos de magia rápida) ##
+# Estos objetos pueden utilizarse para usar magias rápidamente si conoces la magia permanente. #
 
  Objeto  | Magia/s
 ---------|---------
