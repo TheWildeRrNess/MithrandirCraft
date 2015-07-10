@@ -20,23 +20,23 @@
 /cast drainlife | Roba 2 puntos de vida al jugador objetivo, y da esos puntos al usuario. | 10 | - | Instantaneo | 5 segundos | 15 bloques | -&nbsp;
 /cast empower | Aumenta el poder de tus magias de ataque | 15 cada 10 usos, después, 5 | - | 30 segundos | 120 segundos | - | -&nbsp;
 /cast enderchest | Abre tu enderchest estés donde estés, sin necesidad de usar el cofre. | 50 | Ender Pearl x1 | Instantaneo | 300 segundos | - | Donaciones Crescent Ville (pergaminos)
-/cast entomb | | | | | | |
-/cast explode | | | | | | |
-/cast explosivearrow | | | | | | |
-/cast farm | | | | | | |
-/cast fireball | | | | | | |
-/cast firechain | | | | | | |
-/cast firenova | | | | | | |
-/cast flamewalk | | | | | | |
-/cast food | | | | | | |
-/cast forcebomb | | | | | | |
-/cast forcepush | | | | | | |
-/cast forcetoss | | | | | | |
-/cast freeze | | | | | | |
-/cast frostwalk | | | | | | |
-/cast gate | | | | | | |
-/cast geyser | | | | | | |
-/cast gills | | | | | | |
+/cast entomb | Encarcela al objetivo en una jaula de cristál, si se trata de un jugador, este puede romper la jaula para salir. | 15 | - | 20 segundos | 8 segundos | 15 bloques | Donaciones Crescent Ville (pergaminos)
+/cast explode | Causa una explosión como la de un tnt, pero no crea un crater. | 40 | Polvora x1 | Instantaneo | 30 segundos | 25 bloques | -&nbsp;
+/cast explosivearrow | Dispara una flecha que al impactar con cualquier cosa, causa una explosión. | 25 | Polvora x1 Flecha x1 | Instantaneo | 30 segundos | 25 bloques (max) | -&nbsp;
+/cast farm | Hace crecer tus cosechas por fases, una fase por cada uso. | 75 | Semilla x2 | Instantaneo | 10 segundos | radio de 3 bloques | -&nbsp;
+/cast fireball | Dispara una bola de fuego mas potente que una normal. | 10 | - | Instantaneo | 5 segundos | 30 bloques (max) | Donaciones Crescent Ville (Pergaminos)
+/cast firechain | Inflinge una cadena de la magia pain, que rebota hasta a 5 objetivos cercanos. | 0 | - | 5 rebotes | 0 segundos | - | -&nbsp;
+/cast firenova | Crea una onda expansiva de fuego alrededor del usuario. | 15 | - | Varios ticks | 10 segundos | 5 bloques | -&nbsp;
+/cast flamewalk | Prende fuego a cualquier jugador o mob cercano a ti. | 25 y 10 ocasionales | Carbón x2 | 120 segundos | 30 segundos | 8 bloques | -&nbsp;
+/cast food | Te regenera 2.5 de hambre. | 25 | - | Instantaneo | 30 segundos | - | -&nbsp;
+/cast forcebomb | Empuja a mobs y jugadores al acercarte (automaticamente). | 30 | - | 15 bloques | 8 segundos | 3 bloques | -&nbsp;
+/cast forcepush | Empuja al objetivo hacia atrás con una fuerza de 30 y ligeramente hacia el aire con una fuerza de 20. | 30 | - | instantaneo | 8 segundos | 10 bloques | -&nbsp;
+/cast forcetoss | Lanza al objetivo hacia arriba con una fuerza de 30. | 10 | - | Instantaneo | 5 segundos | 15 bloques | -&nbsp;
+/cast freeze | Dispara una rafaga de 25 bolas de nieve inflingiendo lentitud por congelamiento de nivel 3. | 10 | Bola de Nieve x1 | 80 segundos (lentitud) | 5 segundos | Según angulo | -&nbsp;
+/cast frostwalk | Te permite andar sobre el agua congelandola. | 50 | Bola de nieve x1 (Cada 25 bloques) | 25 bloques | 30 segundos | radio de 2x2 bloques | -&nbsp;
+/cast gate | Te teleporta a la sala superior de la tienda VIP, ignorando cualquier restricción de tiempo. (Solo funciona en el mundo principal. MithrandirCraft) | 50 | Lingote de hierro x1 Redstone x1 | Instantaneo | 0 segundos | cualquier distancia | -&nbsp;
+/cast geyser | Crea un geyser a los pies de tu objetivo, causa 2 puntos de daño + sin contar el daño por posible caída. | 10 | - | 2 segundos | 0 segundos | 20 bloques | -&nbsp;
+/cast gills | Hace aparecer un casco de cristal en tu cabeza + branqueas, que te permiten respirar bajo el agua | 50 | Caña de azucar x1 cada x segundos | Indefinida | 60 segundos | - | Donaciones Crescent Ville (pergaminos)
 /cast haste | | | | | | |
 /cast haze | | | | | | |
 /cast heal | | | | | | |
