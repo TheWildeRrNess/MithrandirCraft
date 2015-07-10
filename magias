@@ -38,20 +38,20 @@
 /cast geyser | Crea un geyser a los pies de tu objetivo, causa 2 puntos de daño + sin contar el daño por posible caída. | 10 | - | 2 segundos | 0 segundos | 20 bloques | -&nbsp;
 /cast gills | Hace aparecer un casco de cristal en tu cabeza + branqueas, que te permiten respirar bajo el agua | 50 | Caña de azucar x1 cada x segundos | Indefinida | 60 segundos | - | Donaciones Crescent Ville (pergaminos)
 /cast haste | Aplica velocidad de movimiento de nivel 3 al usuario | 25 | - | 60 segundos | 0 segundos | - | -&nbsp;
-/cast haze | | | | | | |
-/cast heal | | | | | | |
-/cast invisibility | | | | | | |
-/cast invulnerability | | | | | | |
-/cast leap | | | | | | |
-/cast levitate | | | | | | |
-/cast lifewalk | | | | | | |
-/cast lightning | | | | | | |
-/cast lihtwalk | | | | | | |
-/cast lilywalk | | | | | | |
-/cast mana | | | | | | |
-/cast mark | | | | | | |
-/cast minion | | | | | | |
-/cast missile | | | | | | |
+/cast haze | Marea al jugador objetivo, el cual ve su pantalla distorsionada | 10 | - | 200 segundos  | 15 segundos | 20 bloques | Donaciones Crescent Ville (pergaminos)
+/cast heal | Cura al jugador objetivo (10 puntos = 5 corazones de vida) | 10 | - | Instantaneo | 0 segundos | 12 bloques | Donaciones Crescent Ville (pergaminos)
+/cast invisibility | Aplica invisibilidad absoluta sobre el usuario (los demás jugadores y mobs no te ven en absoluto.Tus armas, armadura, o cualquier otro objeto que lleves también se vuelven invisibles) | 25 + 15 cada 3 segundos | - | 10 segundos | 100 segundos | - | Donaciones Crescent Ville (pergaminos)
+/cast invulnerability | Aplica invulnerabilidad ante los siguientes daños (entre otros): Explosión de bloques, Contacto, Ahogamiento, Ataque de entidades, Eplosión de entidades, Caída, Fuego, Quemaduras, Lava, Rayos, Magia, Veneno, Proyectiles, Hambruna, Aplastamiento, Vortice, Wither(Marchitación). | 30 + 15 al recibir daño | - | 15 segundos | 220 segundos | - | -&nbsp;
+/cast leap | Causa un gran salto al usuario hacia la direccón que mire el usuario | 15 | - | Instantaneo | 10 segundos | - | -&nbsp;
+/cast levitate | Eleva del suelo al jugador o mob objetivo, el movimiento de levitacón es bastante irregular e incontrolable. (Existen formas para huir de levitación, como /spawn, /f home o esperar a que termine el SP del usuario) Se aplica daño de impacto contra el suelo si el objetivo contacta con él. El usuario también puede moverse mientras utiliza esta habilidad. | 30 | Pluma x2 | 15 segundos | 30 segundos | 12 bloques |
+/cast lifewalk | Crecen flores, hierbas y avetos a los pies del usuario al andar | 25 | Flor amarilla x1 Rosa roja x1 + 1 flor cada x segundos | ∞ | 0 segundos | - | -&nbsp;
+/cast lightning | Hace caer un rayo en el punto que estés mirando. | 15 | - | Instantaneo | 15 | 20 bloques | -&nbsp;
+/cast lihtwalk | Al caminar, aparece un bloque de glowstone a tus pies que te ilumina y sigue. | 25 | Antorchas x3 + 1 antorcha ocasionalmente | Indefinida | 0 segundos | - | -&nbsp;
+/cast lilywalk | Aparecen hojas de loto, que te permiten caminar sobre agua. | 40 | Hoja de loto (Lily) x1 +1 hoja de loto ocasionalmente | Indefinida | 30 segundos | 3x3 hojas | -&nbsp;
+/cast mana | Restaura maná al coste de tu vida > 2 vidas = 25 mana. | 25? | - | Instantaneo | 3 segundos | - | -&nbsp;
+/cast mark | Marca una localización como respawn privado. (ESTA MAGIA SE COMPLEMENTA CON RECALL) | 75 | Redstone x5 Lingote de hierro x5 | Instantaneo | - | 43200 segundos | Parkour, tras sala 10. Crescent Ville (Pergaminos)
+/cast minion | Invoca un muerto para asistirte. | 30 | Hueso x2 | 60 segundos | 60 segundos | - | Donaciones Crescent Ville (pergaminos)
+/cast missile | Dispara un missil de particulas que persiguen al objetivo | 0 | - | 20 segundos | 0 segundos | 1.5 bloques | -&nbsp;
 /cast moon | | | | | | |
 /cast pain | | | | | | |
 /cast phase | | | | | | |
