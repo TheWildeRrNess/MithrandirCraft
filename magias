@@ -37,7 +37,7 @@
 /cast gate | Te teleporta a la sala superior de la tienda VIP, ignorando cualquier restricción de tiempo. (Solo funciona en el mundo principal. MithrandirCraft) | 50 | Lingote de hierro x1 Redstone x1 | Instantaneo | 0 segundos | cualquier distancia | -&nbsp;
 /cast geyser | Crea un geyser a los pies de tu objetivo, causa 2 puntos de daño + sin contar el daño por posible caída. | 10 | - | 2 segundos | 0 segundos | 20 bloques | -&nbsp;
 /cast gills | Hace aparecer un casco de cristal en tu cabeza + branqueas, que te permiten respirar bajo el agua | 50 | Caña de azucar x1 cada x segundos | Indefinida | 60 segundos | - | Donaciones Crescent Ville (pergaminos)
-/cast haste | | | | | | |
+/cast haste | Aplica velocidad de movimiento de nivel 3 al usuario | 25 | - | 60 segundos | 0 segundos | - | -&nbsp;
 /cast haze | | | | | | |
 /cast heal | | | | | | |
 /cast invisibility | | | | | | |
