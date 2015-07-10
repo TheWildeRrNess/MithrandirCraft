@@ -52,19 +52,19 @@
 /cast mark | Marca una localización como respawn privado. (ESTA MAGIA SE COMPLEMENTA CON RECALL) | 75 | Redstone x5 Lingote de hierro x5 | Instantaneo | - | 43200 segundos | Parkour, tras sala 10. Crescent Ville (Pergaminos)
 /cast minion | Invoca un muerto para asistirte. | 30 | Hueso x2 | 60 segundos | 60 segundos | - | Donaciones Crescent Ville (pergaminos)
 /cast missile | Dispara un missil de particulas que persiguen al objetivo | 0 | - | 20 segundos | 0 segundos | 1.5 bloques | -&nbsp;
-/cast moon | | | | | | |
-/cast pain | | | | | | |
-/cast phase | | | | | | |
-/cast poison | | | | | | |
-/cast prayer | | | | | | |
-/cast purge | | | | | | |
-/cast reach | | | | | | |
-/cast recall | | | | | | |
-/cast reflect | | | | | | |
-/cast repair | | | | | | |
-/cast roar | | | | | | |
-/cast safefall | | | | | | |
-/cast shadowstep | | | | | | |
+/cast moon | Acelera el tiempo haciendo que la luna salga de inmediato. | 75 | Lapislazuli x8 Reloj x1 | Instantaneo | 1800 segundos | - | -&nbsp;
+/cast pain | Inflinge 3 corazones y medio de daño real (7 puntos de daño real) al objetivo (ignorando armadura) al coste de quitarte medio corazón a ti. | 10 | 1 punto de vida (medio corazón) | Instantaneo | 10 segundos | 10 bloques | -&nbsp;
+/cast phase | Traspasa un maximo de 2 bloques al instante en cualquier dirección (tanto horizontalmente como verticalmente) | 90 | - | Instantaneo | 300 segundos | 5 bloques | -&nbsp;
+/cast poison | Causa el efecto envenenamiento sobre el objetivo | 12 | - | 100 segundos | 15 segundos | 20 bloques | Donaciones Crescent Ville (pergaminos)
+/cast prayer | Reza para recupera 10 puntos de tu propia vida (5 corazones enteros) | 10 | - | Instantaneo | 15 segundos | - | Donaciones Crescent Ville (Pergaminos)
+/cast purge | Elimina todos los monstruos que se encuentren a tu alrededor. (No funciona con jefes) | 50 | - | Instantaneo | 60 segundos | 8 bloques | -&nbsp;
+/cast reach | Coloca y destruye bloques a larga distancia, manipulas el mundo a tu alrededor. | 50 | - | 60 segundos | 120 segundos | 15 bloques | -&nbsp;
+/cast recall | Te teleporta a la localización marcada previamente. (ESTA MAGIA SE COMPLEMENTA CON MARK) | 75 | Lingote de hierro x1 | 5 segundos | 300 segundos | - | -&nbsp;
+/cast reflect | Devuelve reflectado un ataque magico dirigido a ti | 30 + 20 por magia reflectada | - | 3 reflects | 30 segundos | - | -&nbsp;
+/cast repair | Repara 100 puntosrepartidos entre tus objetos en cualquier parte del inventario que esté dañado. | 60 | Lingote de herro x2 Lingote de oro x2 | Instantaneo | 300 segundos | - | Donaciones Crescent Ville (pergaminos)
+/cast roar | Atrae la atención de los enemigos cercanos, obligandoles a atacarte | 10 | - | Instantaneo | 15 segundos | 8 bloques | Donaciones Crescent Ville (pergaminos)
+/cast safefall | Te permite caer a grandes alturas sin tomar daño. | 20 | Pluma x1 cada vez que caes | 300 segundos | 60 segundos | - | -&nbsp;
+/cast shadowstep | Al clickar sobre un jugador objetivo, apareces a su espalda. | 10 | - | Instantaneo | 0 segundos | 15 bloques | Donaciones Crescent Ville (pergaminos)
 /cast silence | | | | | | |
 /cast spellhaste | | | | | | |
 /cast stealth | | | | | | |
