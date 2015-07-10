@@ -65,28 +65,28 @@
 /cast roar | Atrae la atención de los enemigos cercanos, obligandoles a atacarte | 10 | - | Instantaneo | 15 segundos | 8 bloques | Donaciones Crescent Ville (pergaminos)
 /cast safefall | Te permite caer a grandes alturas sin tomar daño. | 20 | Pluma x1 cada vez que caes | 300 segundos | 60 segundos | - | -&nbsp;
 /cast shadowstep | Al clickar sobre un jugador objetivo, apareces a su espalda. | 10 | - | Instantaneo | 0 segundos | 15 bloques | Donaciones Crescent Ville (pergaminos)
-/cast silence | | | | | | |
-/cast spellhaste | | | | | | |
-/cast stealth | | | | | | |
-/cast stonevision | | | | | | |
-/cast storm | | | | | | |
-/cast stormblock | | | | | | |
-/cast summon | | | | | | |
-/cast sun | | | | | | |
-/cast switch | | | | | | |
-/cast transmute | | | | | | |
-/cast telekinesis | | | | | | |
-/cast tree | | | | | | |
-/cast volley | | | | | | |
-/cast walkway | | | | | | |
-/cast wall | | | | | | |
-/cast water | | | | | | |
-/cast waterwalk | | | | | | |
-/cast windwalk | | | | | | |
-/cast zap | | | | | | |
-/cast gianttree | | | | | | |
-/cast torcharrow | | | | | | |
-/cast zeus | | | | | | |
+/cast silence | Silencia al jugador objetivo, de modo que no podrá usar ninguna magia (solo podrá usar /cast help y /cast list) | 15 | - | 200 segundos | 0 segundos | 10 bloques | Donaciones Crescent Ville (pergaminos)
+/cast spellhaste | Reduce los tiempos de calentamiento y enfiramiento de tus magias en un 50%. | 25 | - | 15 segundos | 60 segundos | - | -&nbsp;
+/cast stealth | Te haces invisible a los ojos de los mobs. | 15 | - | 20 segundos | 60 segundos | 100% | Donaciones Crescent Ville (pergaminos)
+/cast stonevision | Puedes ver una corta distancia através de roca (Muy util para minar) | 50 | Piedra x2 Cristal x2 | 30 segundos | 60 segundos | 4 bloques de radio | -&nbsp;
+/cast storm | Hace caer un rayo encima de todos los enemigos cercanos. (también invisibles) | 35 | - | Instantaneo | 19 segundos | radio de x10 horizontalmente y x5 verticalmente. | -&nbsp;
+/cast stormblock | Hace aparecer un bloque que ataca a los enemigos que se acerquen. | 0 | - | 5 pulsaciones | 30 segundos | 15 bloques |
+/cast summon | Invoca a un jugador. | 50 | Redstone x3, Lingote de hierro x3 | 15 segundos (ritual de llamada) | 90 segundos | Cualquier distancia | Parkour, tras sala 5, Crescent Ville (Pergaminos)
+/cast sun | Acelera el tiempo haciendo que el sol salga de inmediato. | 75 | Redstone x8, Reloj x1 | - | 1800 segundos | - | -&nbsp;
+/cast switch | Cambia tu posición con la de otro jugador cercano. | 10 | - | Instantaneo | 6 segundos | hay que estar algo cerca (?) | -&nbsp;
+/cast transmute | Transmuta hierro a oro | 0 | - | Instantaneo | 0 segundos | 10 bloques | -&nbsp;
+/cast telekinesis | Acciona a distancia botones y palancas a distancia. | 5 | - | Instantaneo | 15 segundos | 25 bloques | -&nbsp;
+/cast tree | Hace crecer un arbol allá donde estés mirando | 10 | Sapling x1 (Arbusto/arbol joven) | Instantaneo | 5 segundos | 15 bloques | -&nbsp;
+/cast volley | Dispara una rafaga de 10 flechas donde clickes (estas flechas no pueden recogerse) | 20 | flecha x2 | Instantaneo | 45 segundos | 30 bloques | Donaciones Crescent Ville (pergaminos)
+/cast walkway | Despliega una pasarela por la cual puedes andar sobre madera y ascender por escaleras según como mires. | 50 + 15 cada 15 bloques | Madera x1 cada 15 bloques | Según el maná | 60 segundos | 6 bloques (tamaño de la pasarela) | -&nbsp;
+/cast wall | Crea una pared de 3(altura)x5(ancho) como elemento defensivo | 12 | Piedra x2 | 15 segundos | 15 segundos | 3x5 bloques | Donaciones Crescent Ville (pergaminos)
+/cast water | Origina un punto de agua que puede propagarse. | 10 | - | 200 segundos | 120 segundos | 8 bloques | -&nbsp;
+/cast waterwalk | Te permite andar sobre el agua. | 25 | Barco x1 y cada 50 bloques x1 hoja de loto (LilyPad) | 60 segundos | 0 segundos | - | -&nbsp;
+/cast windwalk | Te permite volar | 30 + 25 cada 15 segundos | Pluma x2 (feather) + Pluma x1 cada 15 segundos | 15 segundos | 0 segundos | - | -&nbsp;
+/cast zap | Destruye cualquier bloque menos aire y bedrock al instante. | 5 | - | Instantaneo | 1 segundo | 15 bloques | -&nbsp;
+/cast gianttree | Crea un arbol gigante. | 50 | sapling x5 | Instantaneo | 300 segundos | 20 bloques | -&nbsp;
+/cast torcharrow | Hace que tus flechas sean de fuego. | 25 | Antorcha x3 | 600 segundos | 10 segundos | - | -&nbsp;
+/cast zeus | Hace caer un rayo que causa una gran explosión a coste de 3 puntos de vida (1 corazón y medio). | 60 | Oro x1 | Instantaneo | 120 segundos | Como lightning y explode | -&nbsp;
 
 ## Magias de Transformación en objeto (Actualmente inservibles) ##
 
