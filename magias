@@ -53,7 +53,6 @@
 /cast explode | Causa una explosión como la de un tnt, pero no crea un crater. | 40 | Polvora x1 | Instantaneo | 30 segundos | 25 bloques 
 /cast explosivearrow | Dispara una flecha que al impactar con cualquier cosa, causa una explosión. | 25 | Polvora x1 Flecha x1 | Instantaneo | 30 segundos | 25 bloques (max) 
 /cast farm | Hace crecer tus cosechas por fases, una fase por cada uso. | 75 | Semilla x2 | Instantaneo | 10 segundos | radio de 3 bloques 
-
 /cast firechain | Inflinge una cadena de la magia pain, que rebota hasta a 5 objetivos cercanos. | 0 | - | 5 rebotes | 0 segundos | - 
 /cast firenova | Crea una onda expansiva de fuego alrededor del usuario. | 15 | - | Varios ticks | 10 segundos | 5 bloques 
 /cast flamewalk | Prende fuego a cualquier jugador o mob cercano a ti. | 25 y 10 ocasionales | Carbón x2 | 120 segundos | 30 segundos | 8 bloques 
