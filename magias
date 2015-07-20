@@ -4,101 +4,101 @@
 
  Magia | Descripción  | Maná  | Requisitos | Duarción | Enfriamiento | Alcance 
 -------|--------------|-------|------------|----------|--------------|---------
-/cast blind | Cega al jugador objetivo, el cual ve su radio de visón reducido drásticamente. | 10 | - | 200 segundos | 15 segundos | 20 bloques 
-/cast cleanse | Cura tus estados negativos | 30 | - | Instantaneo | 60 segundos 
-/cast combust | Prende fuego al objetivo, causando 1 de daño por cada tick. | 10 | - | 100 ticks | 10 segundos | 20 bloques 
-/cast cripple | Causa el efecto lentitud de nivel 5 al objetivo impidiendole prácticamente el movimiento | 10 | - | 100 segundos | 15 segundos | 20 bloques 
-/cast disarm | Desarma al jugador objetivo, su arma cae al suelo, pero regresa a él al terminar el tiempo de duración. El arma debe ser una de las siguientes: blaze rod, palo, libro, hueso, espada de madera, oro, hierro o diamante y arco. | 20 | - | 100 segundos | 15 segundos | 20 bloques 
-/cast enderchest | Abre tu enderchest estés donde estés, sin necesidad de usar el cofre. | 50 | Ender Pearl x1 | Instantaneo | 300 segundos | - 
-/cast entomb | Encarcela al objetivo en una jaula de cristál, si se trata de un jugador, este puede romper la jaula para salir. | 15 | - | 20 segundos | 8 segundos | 15 bloques 
-/cast fireball | Dispara una bola de fuego mas potente que una normal. | 10 | - | Instantaneo | 5 segundos | 30 bloques (max) 
-/cast gills | Hace aparecer un casco de cristal en tu cabeza + branqueas, que te permiten respirar bajo el agua | 50 | Caña de azucar x1 cada x segundos | Indefinida | 60 segundos | - 
-/cast haze | Marea al jugador objetivo, el cual ve su pantalla distorsionada | 10 | - | 200 segundos  | 15 segundos | 20 bloques 
-/cast heal | Cura al jugador objetivo (10 puntos = 5 corazones de vida) | 10 | - | Instantaneo | 0 segundos | 12 bloques 
-/cast invisibility | Aplica invisibilidad absoluta sobre el usuario (los demás jugadores y mobs no te ven en absoluto.Tus armas, armadura, o cualquier otro objeto que lleves también se vuelven invisibles) | 25 + 15 cada 3 segundos | - | 10 segundos | 100 segundos | - 
-/cast minion | Invoca un muerto para asistirte. | 30 | Hueso x2 | 60 segundos | 60 segundos | - 
-/cast poison | Causa el efecto envenenamiento sobre el objetivo | 12 | - | 100 segundos | 15 segundos | 20 bloques 
-/cast prayer | Reza para recupera 10 puntos de tu propia vida (5 corazones enteros) | 10 | - | Instantaneo | 15 segundos | - 
-/cast repair | Repara 100 puntosrepartidos entre tus objetos en cualquier parte del inventario que esté dañado. | 60 | Lingote de herro x2 Lingote de oro x2 | Instantaneo | 300 segundos | - 
-/cast roar | Atrae la atención de los enemigos cercanos, obligandoles a atacarte | 10 | - | Instantaneo | 15 segundos | 8 bloques 
-/cast shadowstep | Al clickar sobre un jugador objetivo, apareces a su espalda. | 10 | - | Instantaneo | 0 segundos | 15 bloques 
-/cast stealth | Te haces invisible a los ojos de los mobs. | 15 | - | 20 segundos | 60 segundos | 100% 
-/cast volley | Dispara una rafaga de 10 flechas donde clickes (estas flechas no pueden recogerse) | 20 | flecha x2 | Instantaneo | 45 segundos | 30 bloques 
-/cast wall | Crea una pared de 3(altura)x5(ancho) como elemento defensivo | 12 | Piedra x2 | 15 segundos | 15 segundos | 3x5 bloques 
-/cast silence | Silencia al jugador objetivo, de modo que no podrá usar ninguna magia (solo podrá usar /cast help y /cast list) | 15 | - | 200 segundos | 0 segundos | 10 bloques 
-/cast clarity | Despeja tu mente y aumenta la regeneración de maná de forma temporal. | 10 | - | 60 segundos | 300 segundos 
+/cast blind | Cega al jugador objetivo, el cual ve su radio de visón reducido drásticamente. | 10 | - | 200 s | 15 s | 20 bloques 
+/cast cleanse | Cura tus estados negativos | 30 | - | Instantaneo | 60 s 
+/cast combust | Prende fuego al objetivo, causando 1 de daño por cada tick. | 10 | - | 100 ticks | 10 s | 20 bloques 
+/cast cripple | Causa el efecto lentitud de nivel 5 al objetivo impidiendole prácticamente el movimiento | 10 | - | 100 s | 15 s | 20 bloques 
+/cast disarm | Desarma al jugador objetivo, su arma cae al suelo, pero regresa a él al terminar el tiempo de duración. El arma debe ser una de las siguientes: blaze rod, palo, libro, hueso, espada de madera, oro, hierro o diamante y arco. | 20 | - | 100 s | 15 s | 20 bloques 
+/cast enderchest | Abre tu enderchest estés donde estés, sin necesidad de usar el cofre. | 50 | Ender Pearl x1 | Instantaneo | 300 s | - 
+/cast entomb | Encarcela al objetivo en una jaula de cristál, si se trata de un jugador, este puede romper la jaula para salir. | 15 | - | 20 s | 8 s | 15 bloques 
+/cast fireball | Dispara una bola de fuego mas potente que una normal. | 10 | - | Instantaneo | 5 s | 30 bloques (max) 
+/cast gills | Hace aparecer un casco de cristal en tu cabeza + branqueas, que te permiten respirar bajo el agua | 50 | Caña de azucar x1 cada x s | Indefinida | 60 s | - 
+/cast haze | Marea al jugador objetivo, el cual ve su pantalla distorsionada | 10 | - | 200 s  | 15 s | 20 bloques 
+/cast heal | Cura al jugador objetivo (10 puntos = 5 corazones de vida) | 10 | - | Instantaneo | 0 s | 12 bloques 
+/cast invisibility | Aplica invisibilidad absoluta sobre el usuario (los demás jugadores y mobs no te ven en absoluto.Tus armas, armadura, o cualquier otro objeto que lleves también se vuelven invisibles) | 25 + 15 cada 3 s | - | 10 s | 100 s | - 
+/cast minion | Invoca un muerto para asistirte. | 30 | Hueso x2 | 60 s | 60 s | - 
+/cast poison | Causa el efecto envenenamiento sobre el objetivo | 12 | - | 100 s | 15 s | 20 bloques 
+/cast prayer | Reza para recupera 10 puntos de tu propia vida (5 corazones enteros) | 10 | - | Instantaneo | 15 s | - 
+/cast repair | Repara 100 puntosrepartidos entre tus objetos en cualquier parte del inventario que esté dañado. | 60 | Lingote de herro x2 Lingote de oro x2 | Instantaneo | 300 s | - 
+/cast roar | Atrae la atención de los enemigos cercanos, obligandoles a atacarte | 10 | - | Instantaneo | 15 s | 8 bloques 
+/cast shadowstep | Al clickar sobre un jugador objetivo, apareces a su espalda. | 10 | - | Instantaneo | 0 s | 15 bloques 
+/cast stealth | Te haces invisible a los ojos de los mobs. | 15 | - | 20 s | 60 s | 100% 
+/cast volley | Dispara una rafaga de 10 flechas donde clickes (estas flechas no pueden recogerse) | 20 | flecha x2 | Instantaneo | 45 s | 30 bloques 
+/cast wall | Crea una pared de 3(altura)x5(ancho) como elemento defensivo | 12 | Piedra x2 | 15 s | 15 s | 3x5 bloques 
+/cast silence | Silencia al jugador objetivo, de modo que no podrá usar ninguna magia (solo podrá usar /cast help y /cast list) | 15 | - | 200 s | 0 s | 10 bloques 
+/cast clarity | Despeja tu mente y aumenta la regeneración de maná de forma temporal. | 10 | - | 60 s | 300 s 
 
 ###  Obteción:  Parkour. Crescent Ville (Pergaminos) ###
 
  Magia | Descripción  | Maná  | Requisitos | Duarción | Enfriamiento | Alcance 
 -------|--------------|-------|------------|----------|--------------|---------
-/cast summon | Invoca a un jugador. | 50 | Redstone x3, Lingote de hierro x3 | 15 segundos (ritual de llamada) | 90 segundos | Cualquier distancia 
-/cast mark | Marca una localización como respawn privado. (ESTA MAGIA SE COMPLEMENTA CON RECALL) | 75 | Redstone x5 Lingote de hierro x5 | Instantaneo | - | 43200 segundos 
+/cast summon | Invoca a un jugador. | 50 | Redstone x3, Lingote de hierro x3 | 15 s (ritual de llamada) | 90 s | Cualquier distancia 
+/cast mark | Marca una localización como respawn privado. (ESTA MAGIA SE COMPLEMENTA CON RECALL) | 75 | Redstone x5 Lingote de hierro x5 | Instantaneo | - | 43200 s 
 
 ###  Obteción: - ###
 
- Magia | Descripción  | Maná  | Requisitos | Duarción | Enfriamiento | Alcance 
--------|--------------|-------|------------|----------|--------------|---------
-/cast anvil | Dispara un anvil (yunque) hacia la direción que mires. | Yunque (Anvil) x1 | Instantaneo | 10 segundos | Dependiendo del angulo de visón 
-/cast armor | Otorga una armadura de diamante encantada temporal, al usuario. No funciona si ya llevas una armadura puesta. | 25 | Pepita de oro x1 | 30 segundos | 0 segundos tras finalizar su uso anterior 
-/cast blink | Te teleporta a una corta distancia. | 15 | - | Instantaneo | 8 segundos | 25 bloques 
-/cast build | Construir con ciertos bloques a distancia (El bloque que vaya a ser colocado, debe encontrarse en el primer slot de la barra selectora, empezando por la izquierda). | 5 | - | Instantaneo | 2 segundos | 25 bloques 
-/cast capture | Captura el monstruo al cual estés mirando. | 0 | - | Instantaneo | 60 segundos 
-/cast carpet | Hace aparezer una alfombra de cristal a tus pies, la cual se moverá contigo si te mueves, también funciona saltando, de modo que puedes ''volar''. | 50 por uso y 20 cada 50 bloques | Pluma x5 por uso y x1 cada 50 bloques | 50 bloques | 30 segundos 
-/cast confusion | Provoca que los monstruos cercanos se confundan, y empiezen a atacarse entre si. | 30 | - | ∞ | 30 segundos | 20 bloques 
-/cast conjure | Hace aparezer ingredientes para realizar pociones | 0 | - | Instantaneo | 600 segundos | - 
-/cast dowse | Determina si hay hierro cerca tuyo. El rango es muy corto, de modo que tiene utilidad si estás minando. | 35 | piedra x2 | Instantaneo | 60 segundos | 4 bloques 
-/cast drainlife | Roba 2 puntos de vida al jugador objetivo, y da esos puntos al usuario. | 10 | - | Instantaneo | 5 segundos | 15 bloques 
-/cast empower | Aumenta el poder de tus magias de ataque | 15 cada 10 usos, después, 5 | - | 30 segundos | 120 segundos | - 
-/cast explode | Causa una explosión como la de un tnt, pero no crea un crater. | 40 | Polvora x1 | Instantaneo | 30 segundos | 25 bloques 
-/cast explosivearrow | Dispara una flecha que al impactar con cualquier cosa, causa una explosión. | 25 | Polvora x1 Flecha x1 | Instantaneo | 30 segundos | 25 bloques (max) 
-/cast farm | Hace crecer tus cosechas por fases, una fase por cada uso. | 75 | Semilla x2 | Instantaneo | 10 segundos | radio de 3 bloques 
-/cast firechain | Inflinge una cadena de la magia pain, que rebota hasta a 5 objetivos cercanos. | 0 | - | 5 rebotes | 0 segundos | - 
-/cast firenova | Crea una onda expansiva de fuego alrededor del usuario. | 15 | - | Varios ticks | 10 segundos | 5 bloques 
-/cast flamewalk | Prende fuego a cualquier jugador o mob cercano a ti. | 25 y 10 ocasionales | Carbón x2 | 120 segundos | 30 segundos | 8 bloques 
-/cast food | Te regenera 2.5 de hambre. | 25 | - | Instantaneo | 30 segundos | - 
-/cast forcebomb | Empuja a mobs y jugadores al acercarte (automaticamente). | 30 | - | 15 bloques | 8 segundos | 3 bloques 
-/cast forcepush | Empuja al objetivo hacia atrás con una fuerza de 30 y ligeramente hacia el aire con una fuerza de 20. | 30 | - | instantaneo | 8 segundos | 10 bloques 
-/cast forcetoss | Lanza al objetivo hacia arriba con una fuerza de 30. | 10 | - | Instantaneo | 5 segundos | 15 bloques 
-/cast freeze | Dispara una rafaga de 25 bolas de nieve inflingiendo lentitud por congelamiento de nivel 3. | 10 | Bola de Nieve x1 | 80 segundos (lentitud) | 5 segundos | Según angulo 
-/cast frostwalk | Te permite andar sobre el agua congelandola. | 50 | Bola de nieve x1 (Cada 25 bloques) | 25 bloques | 30 segundos | radio de 2x2 bloques 
-/cast gate | Te teleporta a la sala superior de la tienda VIP, ignorando cualquier restricción de tiempo. (Solo funciona en el mundo principal. MithrandirCraft) | 50 | Lingote de hierro x1 Redstone x1 | Instantaneo | 0 segundos | cualquier distancia 
-/cast geyser | Crea un geyser a los pies de tu objetivo, causa 2 puntos de daño + sin contar el daño por posible caída. | 10 | - | 2 segundos | 0 segundos | 20 bloques 
-/cast haste | Aplica velocidad de movimiento de nivel 3 al usuario | 25 | - | 60 segundos | 0 segundos | - 
-/cast invulnerability | Aplica invulnerabilidad ante los siguientes daños (entre otros): Explosión de bloques, Contacto, Ahogamiento, Ataque de entidades, Eplosión de entidades, Caída, Fuego, Quemaduras, Lava, Rayos, Magia, Veneno, Proyectiles, Hambruna, Aplastamiento, Vortice, Wither(Marchitación). | 30 + 15 al recibir daño | - | 15 segundos | 220 segundos | - 
-/cast leap | Causa un gran salto al usuario hacia la direccón que mire el usuario | 15 | - | Instantaneo | 10 segundos | - 
-/cast levitate | Eleva del suelo al jugador o mob objetivo, el movimiento de levitacón es bastante irregular e incontrolable. (Existen formas para huir de levitación, como /spawn, /f home o esperar a que termine el SP del usuario) Se aplica daño de impacto contra el suelo si el objetivo contacta con él. El usuario también puede moverse mientras utiliza esta habilidad. | 30 | Pluma x2 | 15 segundos | 30 segundos | 12 bloques |
-/cast lifewalk | Crecen flores, hierbas y avetos a los pies del usuario al andar | 25 | Flor amarilla x1 Rosa roja x1 + 1 flor cada x segundos | ∞ | 0 segundos | - 
+ Magia | Descripción  | Maná  | Requisitos | Duarción | Enfriamiento | Alcance | Obteción
+-------|--------------|-------|------------|----------|--------------|---------|----------
+/cast anvil | Dispara un anvil (yunque) hacia la direción que mires. | Yunque (Anvil) x1 | Instantaneo | 10 s | Dependiendo del angulo de visón 
+/cast armor | Otorga una armadura de diamante encantada temporal, al usuario. No funciona si ya llevas una armadura puesta. | 25 | Pepita de oro x1 | 30 s | 0 s tras finalizar su uso anterior 
+/cast blink | Te teleporta a una corta distancia. | 15 | - | Instantaneo | 8 s | 25 bloques 
+/cast build | Construir con ciertos bloques a distancia (El bloque que vaya a ser colocado, debe encontrarse en el primer slot de la barra selectora, empezando por la izquierda). | 5 | - | Instantaneo | 2 s | 25 bloques 
+/cast capture | Captura el monstruo al cual estés mirando. | 0 | - | Instantaneo | 60 s 
+/cast carpet | Hace aparezer una alfombra de cristal a tus pies, la cual se moverá contigo si te mueves, también funciona saltando, de modo que puedes ''volar''. | 50 por uso y 20 cada 50 bloques | Pluma x5 por uso y x1 cada 50 bloques | 50 bloques | 30 s 
+/cast confusion | Provoca que los monstruos cercanos se confundan, y empiezen a atacarse entre si. | 30 | - | ∞ | 30 s | 20 bloques 
+/cast conjure | Hace aparezer ingredientes para realizar pociones | 0 | - | Instantaneo | 600 s | - 
+/cast dowse | Determina si hay hierro cerca tuyo. El rango es muy corto, de modo que tiene utilidad si estás minando. | 35 | piedra x2 | Instantaneo | 60 s | 4 bloques 
+/cast drainlife | Roba 2 puntos de vida al jugador objetivo, y da esos puntos al usuario. | 10 | - | Instantaneo | 5 s | 15 bloques 
+/cast empower | Aumenta el poder de tus magias de ataque | 15 cada 10 usos, después, 5 | - | 30 s | 120 s | - 
+/cast explode | Causa una explosión como la de un tnt, pero no crea un crater. | 40 | Polvora x1 | Instantaneo | 30 s | 25 bloques 
+/cast explosivearrow | Dispara una flecha que al impactar con cualquier cosa, causa una explosión. | 25 | Polvora x1 Flecha x1 | Instantaneo | 30 s | 25 bloques (max) 
+/cast farm | Hace crecer tus cosechas por fases, una fase por cada uso. | 75 | Semilla x2 | Instantaneo | 10 s | radio de 3 bloques 
+/cast firechain | Inflinge una cadena de la magia pain, que rebota hasta a 5 objetivos cercanos. | 0 | - | 5 rebotes | 0 s | - 
+/cast firenova | Crea una onda expansiva de fuego alrededor del usuario. | 15 | - | Varios ticks | 10 s | 5 bloques 
+/cast flamewalk | Prende fuego a cualquier jugador o mob cercano a ti. | 25 y 10 ocasionales | Carbón x2 | 120 s | 30 s | 8 bloques 
+/cast food | Te regenera 2.5 de hambre. | 25 | - | Instantaneo | 30 s | - 
+/cast forcebomb | Empuja a mobs y jugadores al acercarte (automaticamente). | 30 | - | 15 bloques | 8 s | 3 bloques 
+/cast forcepush | Empuja al objetivo hacia atrás con una fuerza de 30 y ligeramente hacia el aire con una fuerza de 20. | 30 | - | instantaneo | 8 s | 10 bloques 
+/cast forcetoss | Lanza al objetivo hacia arriba con una fuerza de 30. | 10 | - | Instantaneo | 5 s | 15 bloques 
+/cast freeze | Dispara una rafaga de 25 bolas de nieve inflingiendo lentitud por congelamiento de nivel 3. | 10 | Bola de Nieve x1 | 80 s (lentitud) | 5 s | Según angulo 
+/cast frostwalk | Te permite andar sobre el agua congelandola. | 50 | Bola de nieve x1 (Cada 25 bloques) | 25 bloques | 30 s | radio de 2x2 bloques 
+/cast gate | Te teleporta a la sala superior de la tienda VIP, ignorando cualquier restricción de tiempo. (Solo funciona en el mundo principal. MithrandirCraft) | 50 | Lingote de hierro x1 Redstone x1 | Instantaneo | 0 s | cualquier distancia 
+/cast geyser | Crea un geyser a los pies de tu objetivo, causa 2 puntos de daño + sin contar el daño por posible caída. | 10 | - | 2 s | 0 s | 20 bloques 
+/cast haste | Aplica velocidad de movimiento de nivel 3 al usuario | 25 | - | 60 s | 0 s | - 
+/cast invulnerability | Aplica invulnerabilidad ante los siguientes daños (entre otros): Explosión de bloques, Contacto, Ahogamiento, Ataque de entidades, Eplosión de entidades, Caída, Fuego, Quemaduras, Lava, Rayos, Magia, Veneno, Proyectiles, Hambruna, Aplastamiento, Vortice, Wither(Marchitación). | 30 + 15 al recibir daño | - | 15 s | 220 s | - 
+/cast leap | Causa un gran salto al usuario hacia la direccón que mire el usuario | 15 | - | Instantaneo | 10 s | - 
+/cast levitate | Eleva del suelo al jugador o mob objetivo, el movimiento de levitacón es bastante irregular e incontrolable. (Existen formas para huir de levitación, como /spawn, /f home o esperar a que termine el SP del usuario) Se aplica daño de impacto contra el suelo si el objetivo contacta con él. El usuario también puede moverse mientras utiliza esta habilidad. | 30 | Pluma x2 | 15 s | 30 s | 12 bloques |
+/cast lifewalk | Crecen flores, hierbas y avetos a los pies del usuario al andar | 25 | Flor amarilla x1 Rosa roja x1 + 1 flor cada x s | ∞ | 0 s | - 
 /cast lightning | Hace caer un rayo en el punto que estés mirando. | 15 | - | Instantaneo | 15 | 20 bloques 
-/cast lihtwalk | Al caminar, aparece un bloque de glowstone a tus pies que te ilumina y sigue. | 25 | Antorchas x3 + 1 antorcha ocasionalmente | Indefinida | 0 segundos | - 
-/cast lilywalk | Aparecen hojas de loto, que te permiten caminar sobre agua. | 40 | Hoja de loto (Lily) x1 +1 hoja de loto ocasionalmente | Indefinida | 30 segundos | 3x3 hojas 
-/cast mana | Restaura maná al coste de tu vida > 2 vidas = 25 mana. | 25? | - | Instantaneo | 3 segundos | - 
-/cast missile | Dispara un missil de particulas que persiguen al objetivo | 0 | - | 20 segundos | 0 segundos | 1.5 bloques 
-/cast moon | Acelera el tiempo haciendo que la luna salga de inmediato. | 75 | Lapislazuli x8 Reloj x1 | Instantaneo | 1800 segundos | - 
-/cast pain | Inflinge 3 corazones y medio de daño real (7 puntos de daño real) al objetivo (ignorando armadura) al coste de quitarte medio corazón a ti. | 10 | 1 punto de vida (medio corazón) | Instantaneo | 10 segundos | 10 bloques 
-/cast phase | Traspasa un maximo de 2 bloques al instante en cualquier dirección (tanto horizontalmente como verticalmente) | 90 | - | Instantaneo | 300 segundos | 5 bloques 
-/cast purge | Elimina todos los monstruos que se encuentren a tu alrededor. (No funciona con jefes) | 50 | - | Instantaneo | 60 segundos | 8 bloques 
-/cast reach | Coloca y destruye bloques a larga distancia, manipulas el mundo a tu alrededor. | 50 | - | 60 segundos | 120 segundos | 15 bloques 
-/cast recall | Te teleporta a la localización marcada previamente. (ESTA MAGIA SE COMPLEMENTA CON MARK) | 75 | Lingote de hierro x1 | 5 segundos | 300 segundos | - 
-/cast reflect | Devuelve reflectado un ataque magico dirigido a ti | 30 + 20 por magia reflectada | - | 3 reflects | 30 segundos | - 
-/cast safefall | Te permite caer a grandes alturas sin tomar daño. | 20 | Pluma x1 cada vez que caes | 300 segundos | 60 segundos | - 
-/cast spellhaste | Reduce los tiempos de calentamiento y enfiramiento de tus magias en un 50%. | 25 | - | 15 segundos | 60 segundos | - 
-/cast stonevision | Puedes ver una corta distancia através de roca (Muy util para minar) | 50 | Piedra x2 Cristal x2 | 30 segundos | 60 segundos | 4 bloques de radio 
-/cast storm | Hace caer un rayo encima de todos los enemigos cercanos. (también invisibles) | 35 | - | Instantaneo | 19 segundos | radio de x10 horizontalmente y x5 verticalmente. 
-/cast stormblock | Hace aparecer un bloque que ataca a los enemigos que se acerquen. | 0 | - | 5 pulsaciones | 30 segundos | 15 bloques |
-/cast sun | Acelera el tiempo haciendo que el sol salga de inmediato. | 75 | Redstone x8, Reloj x1 | - | 1800 segundos | - 
-/cast switch | Cambia tu posición con la de otro jugador cercano. | 10 | - | Instantaneo | 6 segundos | hay que estar algo cerca (?) 
-/cast transmute | Transmuta hierro a oro | 0 | - | Instantaneo | 0 segundos | 10 bloques 
-/cast telekinesis | Acciona a distancia botones y palancas a distancia. | 5 | - | Instantaneo | 15 segundos | 25 bloques 
-/cast tree | Hace crecer un arbol allá donde estés mirando | 10 | Sapling x1 (Arbusto/arbol joven) | Instantaneo | 5 segundos | 15 bloques 
-/cast walkway | Despliega una pasarela por la cual puedes andar sobre madera y ascender por escaleras según como mires. | 50 + 15 cada 15 bloques | Madera x1 cada 15 bloques | Según el maná | 60 segundos | 6 bloques (tamaño de la pasarela) 
-/cast water | Origina un punto de agua que puede propagarse. | 10 | - | 200 segundos | 120 segundos | 8 bloques 
-/cast waterwalk | Te permite andar sobre el agua. | 25 | Barco x1 y cada 50 bloques x1 hoja de loto (LilyPad) | 60 segundos | 0 segundos | - 
-/cast windwalk | Te permite volar | 30 + 25 cada 15 segundos | Pluma x2 (feather) + Pluma x1 cada 15 segundos | 15 segundos | 0 segundos | - 
+/cast lihtwalk | Al caminar, aparece un bloque de glowstone a tus pies que te ilumina y sigue. | 25 | Antorchas x3 + 1 antorcha ocasionalmente | Indefinida | 0 s | - 
+/cast lilywalk | Aparecen hojas de loto, que te permiten caminar sobre agua. | 40 | Hoja de loto (Lily) x1 +1 hoja de loto ocasionalmente | Indefinida | 30 s | 3x3 hojas 
+/cast mana | Restaura maná al coste de tu vida > 2 vidas = 25 mana. | 25? | - | Instantaneo | 3 s | - 
+/cast missile | Dispara un missil de particulas que persiguen al objetivo | 0 | - | 20 s | 0 s | 1.5 bloques 
+/cast moon | Acelera el tiempo haciendo que la luna salga de inmediato. | 75 | Lapislazuli x8 Reloj x1 | Instantaneo | 30 m | - 
+/cast pain | Inflinge 3 corazones y medio de daño real (7 puntos de daño real) al objetivo (ignorando armadura) al coste de quitarte medio corazón a ti. | 10 | 1 punto de vida (medio corazón) | Instantaneo | 10 s | 10 bloques 
+/cast phase | Traspasa un maximo de 2 bloques al instante en cualquier dirección (tanto horizontalmente como verticalmente) | 90 | - | Instantaneo | 300 s | 5 bloques 
+/cast purge | Elimina todos los monstruos que se encuentren a tu alrededor. (No funciona con jefes) | 50 | - | Instantaneo | 60 s | 8 bloques 
+/cast reach | Coloca y destruye bloques a larga distancia, manipulas el mundo a tu alrededor. | 50 | - | 60 s | 120 s | 15 bloques 
+/cast recall | Te teleporta a la localización marcada previamente. (ESTA MAGIA SE COMPLEMENTA CON MARK) | 75 | Lingote de hierro x1 | 5 s | 300 s | - 
+/cast reflect | Devuelve reflectado un ataque magico dirigido a ti | 30 + 20 por magia reflectada | - | 3 reflects | 30 s | - 
+/cast safefall | Te permite caer a grandes alturas sin tomar daño. | 20 | Pluma x1 cada vez que caes | 300 s | 60 s | - 
+/cast spellhaste | Reduce los tiempos de calentamiento y enfiramiento de tus magias en un 50%. | 25 | - | 15 s | 60 s | - 
+/cast stonevision | Puedes ver una corta distancia através de roca (Muy util para minar) | 50 | Piedra x2 Cristal x2 | 30 s | 60 s | 4 bloques de radio 
+/cast storm | Hace caer un rayo encima de todos los enemigos cercanos. (también invisibles) | 35 | - | Instantaneo | 19 s | radio de x10 horizontalmente y x5 verticalmente. 
+/cast stormblock | Hace aparecer un bloque que ataca a los enemigos que se acerquen. | 0 | - | 5 pulsaciones | 30 s | 15 bloques |
+/cast sun | Acelera el tiempo haciendo que el sol salga de inmediato. | 75 | Redstone x8, Reloj x1 | - | 1800 s | - 
+/cast switch | Cambia tu posición con la de otro jugador cercano. | 10 | - | Instantaneo | 6 s | hay que estar algo cerca (?) 
+/cast transmute | Transmuta hierro a oro | 0 | - | Instantaneo | 0 s | 10 bloques 
+/cast telekinesis | Acciona a distancia botones y palancas a distancia. | 5 | - | Instantaneo | 15 s | 25 bloques 
+/cast tree | Hace crecer un arbol allá donde estés mirando | 10 | Sapling x1 (Arbusto/arbol joven) | Instantaneo | 5 s | 15 bloques 
+/cast walkway | Despliega una pasarela por la cual puedes andar sobre madera y ascender por escaleras según como mires. | 50 + 15 cada 15 bloques | Madera x1 cada 15 bloques | Según el maná | 60 s | 6 bloques (tamaño de la pasarela) 
+/cast water | Origina un punto de agua que puede propagarse. | 10 | - | 200 s | 120 s | 8 bloques 
+/cast waterwalk | Te permite andar sobre el agua. | 25 | Barco x1 y cada 50 bloques x1 hoja de loto (LilyPad) | 60 s | 0 s | - 
+/cast windwalk | Te permite volar | 30 + 25 cada 15 s | Pluma x2 (feather) + Pluma x1 cada 15 s | 15 s | 0 s | - 
 /cast zap | Destruye cualquier bloque menos aire y bedrock al instante. | 5 | - | Instantaneo | 1 segundo | 15 bloques 
-/cast gianttree | Crea un arbol gigante. | 50 | sapling x5 | Instantaneo | 300 segundos | 20 bloques 
-/cast torcharrow | Hace que tus flechas sean de fuego. | 25 | Antorcha x3 | 600 segundos | 10 segundos | - 
-/cast zeus | Hace caer un rayo que causa una gran explosión a coste de 3 puntos de vida (1 corazón y medio). | 60 | Oro x1 | Instantaneo | 120 segundos | Como lightning y explode 
+/cast gianttree | Crea un arbol gigante. | 50 | sapling x5 | Instantaneo | 300 s | 20 bloques 
+/cast torcharrow | Hace que tus flechas sean de fuego. | 25 | Antorcha x3 | 600 s | 10 s | - 
+/cast zeus | Hace caer un rayo que causa una gran explosión a coste de 3 puntos de vida (1 corazón y medio). | 60 | Oro x1 | Instantaneo | 120 s | Como lightning y explode 
 
 ## Objetos de casteo (Objetos de magia rápida) ##
 # Estos objetos pueden utilizarse para usar magias rápidamente si conoces la magia permanente. #
