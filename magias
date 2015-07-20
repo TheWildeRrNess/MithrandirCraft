@@ -2,8 +2,8 @@
 
 ###  Obteción: Donaciones Crescent Ville(pergaminos) ###
 
- Magia | Descripción  | Maná  | Requisitos | Duarción | Enfriamiento | Alcance 
--------|--------------|-------|------------|----------|--------------|---------
+ Magia | Descripción  | Maná  | Requisitos | Duarción | Reset | Alcance 
+-------|--------------|-------|------------|----------|-------|---------
 /cast blind | Cega al jugador objetivo, el cual ve su radio de visón reducido drásticamente. | 10 | - | 200 s | 15 s | 20 bloques 
 /cast cleanse | Cura tus estados negativos | 30 | - | Instantaneo | 60 s 
 /cast combust | Prende fuego al objetivo, causando 1 de daño por cada tick. | 10 | - | 100 ticks | 10 s | 20 bloques 
@@ -30,15 +30,15 @@
 
 ###  Obteción:  Parkour. Crescent Ville (Pergaminos) ###
 
- Magia | Descripción  | Maná  | Requisitos | Duarción | Enfriamiento | Alcance 
--------|--------------|-------|------------|----------|--------------|---------
+ Magia | Descripción  | Maná  | Requisitos | Duarción | Reset | Alcance 
+-------|--------------|-------|------------|----------|-------|---------
 /cast summon | Invoca a un jugador. | 50 | Redstone x3, Lingote de hierro x3 | 15 s (ritual de llamada) | 90 s | Cualquier distancia 
 /cast mark | Marca una localización como respawn privado. (ESTA MAGIA SE COMPLEMENTA CON RECALL) | 75 | Redstone x5 Lingote de hierro x5 | Instantaneo | - | 43200 s 
 
 ###  Obteción: - ###
 
- Magia | Descripción  | Maná  | Requisitos | Duarción | Enfriamiento | Alcance | Obteción
--------|--------------|-------|------------|----------|--------------|---------|----------
+ Magia | Descripción  | Maná  | Requisitos | Duarción | Reset | Alcance | Obteción
+-------|--------------|-------|------------|----------|-------|---------|----------
 /cast anvil | Dispara un anvil (yunque) hacia la direción que mires. | Yunque (Anvil) x1 | Instantaneo | 10 s | Dependiendo del angulo de visón 
 /cast armor | Otorga una armadura de diamante encantada temporal, al usuario. No funciona si ya llevas una armadura puesta. | 25 | Pepita de oro x1 | 30 s | 0 s tras finalizar su uso anterior 
 /cast blink | Te teleporta a una corta distancia. | 15 | - | Instantaneo | 8 s | 25 bloques 
@@ -82,7 +82,7 @@
 /cast recall | Te teleporta a la localización marcada previamente. (ESTA MAGIA SE COMPLEMENTA CON MARK) | 75 | Lingote de hierro x1 | 5 s | 300 s | - 
 /cast reflect | Devuelve reflectado un ataque magico dirigido a ti | 30 + 20 por magia reflectada | - | 3 reflects | 30 s | - 
 /cast safefall | Te permite caer a grandes alturas sin tomar daño. | 20 | Pluma x1 cada vez que caes | 300 s | 60 s | - 
-/cast spellhaste | Reduce los tiempos de calentamiento y enfiramiento de tus magias en un 50%. | 25 | - | 15 s | 60 s | - 
+/cast spellhaste | Reduce los tiempos de calentamiento y enfriamiento de tus magias en un 50%. | 25 | - | 15 s | 60 s | - 
 /cast stonevision | Puedes ver una corta distancia através de roca (Muy util para minar) | 50 | Piedra x2 Cristal x2 | 30 s | 60 s | 4 bloques de radio 
 /cast storm | Hace caer un rayo encima de todos los enemigos cercanos. (también invisibles) | 35 | - | Instantaneo | 19 s | radio de x10 horizontalmente y x5 verticalmente. 
 /cast stormblock | Hace aparecer un bloque que ataca a los enemigos que se acerquen. | 0 | - | 5 pulsaciones | 30 s | 15 bloques |
