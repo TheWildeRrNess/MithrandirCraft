@@ -1,12 +1,12 @@
-## Como crafteo una espada de madera? ##
+## ¿Como crafteo una espada de madera? ##
 ![Alt text](http://img4.wikia.nocookie.net/__cb20120904211718/minecraft/es/images/e/e5/Espada_de_madera,crafteo.png)
 
 
-## Como voy al mundo creativo?##
+## ¿Como voy al mundo creativo?##
 En Mithrandircraft no hay mundo creativo.
 
 
-## Como llego al parkour?##
+## ¿Como llego al parkour?##
 Simplemente escribe /warp parkour
 Conviene que revises todos los warps escribiendo /warps
 
@@ -57,31 +57,31 @@ El rango de moderador se divide en 2 apartados: Moderador Básico y Moderador Av
 Lee más sobre esto en: www.mithrandircraft.es/normas
 
 
-## Como puedo donar?##
+## ¿Como puedo donar?##
 Donar es tan sencillo como acceder al apartado de donaciones de la web: http://www.mithrandircraft.es/donaciones y seguir los pasos que allí se te indican al detalle. A cambio de tus donaciones 
 recibirás las recompensas también especificadas en dicho apartado
 
 
-## Que rangos hay en el servidor?##
+## ¿Que rangos hay en el servidor?##
 Administrador - Webmaster - Builder - ModeradorAvanzado - ModeradorBásico - Publicista - VIP+ - VIP - Jugador por Defecto
 
 
-## Tengo una sugerencia/ He encontrado un error, donde puedo dejar mi explicación para que la leais?##
+## Tengo una sugerencia/ He encontrado un error, ¿donde puedo dejar mi explicación para que la leais?##
 Dejanosla en el sistema de tickets: https://github.com/MithrandirCraft/MithrandirCraft/issues
 
 
-## Que mods/hacks están permitidos en el servidor? Que mods no lo están?##
+## ¿Que mods/hacks están permitidos en el servidor? / ¿Que mods no lo están?##
 Hay un apartado especifico en este Foro para que puedas consultar acerca de los mods, clientes y programas externos aplicables y no aplicables al servidor
 viewtopic.php?f=4&t=6464
 
 
-## Hay sethome? (/sethome y /home)##
+## ¿Hay sethome? (/sethome y /home)##
 Si, pero estos comandos son exclusivos para rango VIP+. Tambien puedes usar /f sethome y /f home, estos comandos son los de la home de tu facción, y cualquier miembro de ella podrá ir al respawn que 
 establezcas. Si lo que quieres es una home privada adicional, también existen 2 magias de donación, obtenibles gratuitamente si superas el parkour tras la sala 10 
 
 
 ## Sobre el mundo Survival:##
-El infierno de Survival requeriría la presencia de todo un mundo nuevo cargado constantemente. Esto representaría una gran carga adicional, tanto de memoria en disco como de memoria ram y procesos 
+El infierno de Survival (nether) requeriría la presencia de todo un mundo nuevo cargado constantemente. Esto representaría una gran carga adicional, tanto de memoria en disco como de memoria ram y procesos 
 adicionales para el servidor. (Por no hablar de si nos planteasemos lo mismo con el End)
 
 Digamos que nos ahorramos este nether adicional, y utilizamos en nether de Factions (El modo de juego principal en MithrandirCraft).
@@ -97,19 +97,19 @@ Exisitiría la posibilidad de separar los enders entre Survival y Factions, pero
 El mundo Survival és tan solo un mundo creado como lugar alternativo y pacifico, contrarrestado con Factions. Un lugar para que los novatos exploren y aprendan, y los veteranos puedan darse unas vacaciones.
 
 
-## Existen trabajos (Jobs)? Como consigo dinero?##
+## ¿Existen trabajos (Jobs)? / ¿Como consigo dinero?##
 Si tu pregunta es si hay jobs para conseguir dinero, la respuesta es NO, ya que el sistema economico numerico dejó de tener uso en MithrandirCraft.
 El sistema económico principal en Factions, y el resto de mundos, a excepción de Survival y el mundo para los minijuegos, son las esmeraldas, puedes conseguirlas minando, pero también puedes traer items a los 
 npcs verdes de /warp pueblonpc (en la caseta de comercio principal y en otros puntos) para conseguirlas en mayor cantidad. Las esmeraldas pueden usarse para obtener otros items de otros npc's o incluso para 
 tradear con otros jugadores.
 
 
-## Porque no hay MCMMO?##
+## ¿Porque no hay MCMMO?##
 No utilizamos MCMMO, ni ningún otro sistema de niveles debido a su abundante cantidad de bugs explotables por los jugadores, además del consumo desenfrenado de recursos que, consecuentemente, causan 
 lag a los jugadores.
 
 
-## Puede un administrador deshacer facciones o terrenos reclamados, o expulsar, redefinir al lider de una facción inactivo/a?:##
+## ¿Puede un administrador deshacer facciones o terrenos reclamados, o expulsar, redefinir al lider de una facción inactivo/a?:##
 Si eres miembro de una facción cuyo lider es inactivo y no accede al servidor para ceder su puesto, en ningún caso un administrador readjudicará el titulo de "Leader" o "Officer". És responsabilidad tuya y del líder prever estas 
 situaciones y actuar para que la facción no quede "inutilizada" en caso de inactividad de un miembro importante.
 
@@ -117,14 +117,14 @@ Toda facción termina deshaciendose al cabo de 30 días de inactividad del últi
 el tiempo que le quede a la facción, y se el primero en "saquearla/recuperar tus cosas".
 
 
-## Porque me han baneado?##
+## ¿Porque me han baneado?##
 El motivo mas habitual por el cual algunos jugadores son expulsados del servidor es por uso de mods, o programas externos que desequilibran la igualdad en el servidor. También en algunos casos 
 algunos usuarios son baneados por mal comportamiento (podríamos decir que es el segundo mayor motivo).
 Si quieres evitar meterte en líos, asegurate de leer, entender y seguir el apartado de Normas en la web del servidor: http://www.mithrandircraft.es/normas
 Si cumples las normas no tienes nada de que preocuparte, puedes seguir jugando legal y tranquilamente n_n
 
 
-## En que consiste este servidor? ##
+## ¿En que consiste este servidor? ##
 Te encuentras en un servidor principalmente de facciones dividido en tres mundos con monstruos poderosos disponibles en /warp dirigible.
 
 - /warp factions: Lugar donde podrás construir tu castillo y hacer pvp contra otras facciones.
@@ -132,7 +132,7 @@ Te encuentras en un servidor principalmente de facciones dividido en tres mundos
 - /spawn: Lugar donde encontraras las tiendas, los monstruos con tesoros y las tiendas de jugadores (entre otras cosas mas).
 
 
-## Como protejo una casa en Survival? ##
+## ¿Como protejo una casa en Survival? ##
 Se puede claimear el terreno en survival de dos formas:
 
 1. Poniendo un cofre en el lugar deseado se claimeara automáticamente un espacio (solo valido si es la primera vez).
